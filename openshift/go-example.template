@@ -42,7 +42,7 @@
         "name": "go-example"
       },
       "spec": {
-        "host": "${APPLICATION_DOMAIN}",
+        
         "to": {
           "kind": "Service",
           "name": "go-example"

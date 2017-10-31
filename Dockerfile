@@ -9,4 +9,4 @@ COPY . /go/src/github.com/openshift/go-example
 
 RUN go-wrapper download && go-wrapper install
 
-CMD ["go-wrapper", "run"
+CMD ["go-wrapper", "run"]
